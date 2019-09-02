@@ -1,7 +1,7 @@
 # Thoughts-on-Diamond
 This repo stores thoughts on dynamic inefficiency project based on Diamond model. 
 
-For simulations with Matlab, see [this repo]().
+For simulations with Matlab, see [this repo](https://github.com/YinshanS/Diamond_Simulation).
 
 For a more reader-friendly view of _ipynb_ files, copy file url and paste into [nbviewer](https://nbviewer.jupyter.org).
 
